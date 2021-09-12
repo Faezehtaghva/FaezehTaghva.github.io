@@ -1,33 +1,33 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"My Favorite Books": [{
+		"Title": "The Wisdom of Florence Scovel Shinn",
+		"Author": "Florence Scovel Shinn",
+		"Publisher": "Fireside",
+		"Genre": "Mental & Spiritual Healing"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Title": "The Power of Now: A Guide to Spiritual Enlightenment",
+		"Author": "Eckhart Tolle",
+		"Publisher": "New World Library",
+		"Genre": "Meditation, Spiritual Self-Help"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Title": "Wuthering Heights",
+		"Author": "Emily Bronte",
+		"Publisher": "Wordsworth Editions Ltd",
+		"Genre": "Classic Literature & Fiction"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Title": "The Masnavi",
+		"Author": "Jalal al-Din Rumi ",
+		"Publisher": "Oxford University Press",
+		"Genre": "Sufism, Persian Literature, Inspirational & Religious Poetry"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Title": "The Design of Everyday Things",
+		"Author": "Don Norman ",
+		"Publisher": "Basic Books",
+		"Genre": "Industrial & Product Design"
 	}]
 	
 }
